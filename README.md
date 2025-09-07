@@ -59,6 +59,3 @@ The main objective of this project is to analyze **sales, customer behavior, and
 4. Explore product, store, and sales trends interactively.  
 
 ---
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
