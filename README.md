@@ -61,4 +61,5 @@ The main objective of this project is to analyze **sales, customer behavior, and
 ---
 
 ## 📷 Dashboard Preview
-- < a href="https://github.com/pawarrohan1019/Caf-Nirvana-Shop-Coffee-Shop-Data-Analysis-Excel-Dashboard-/blob/main/Screenshot%202025-09-07%20140110.png"> Dashboard</a>
+<img width="1529" height="674" alt="Screenshot 2025-09-07 140110" src="https://github.com/user-attachments/assets/146016f2-a129-43c1-9c28-051a7582384c" />
+
