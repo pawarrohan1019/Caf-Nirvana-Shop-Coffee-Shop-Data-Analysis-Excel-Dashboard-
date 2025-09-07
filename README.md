@@ -50,6 +50,20 @@ The main objective of this project is to analyze **sales, customer behavior, and
 - Customers prefer **Regular & Large** cup sizes the most.  
 - Mondays and Thursdays see slightly higher sales compared to weekends.  
 
+
+--
+
+## ✅ Final Conclusion
+This project helped me practice **data cleaning, visualization, and business insights** using Excel.  
+The dashboard clearly highlights:  
+- When the business performs best (mornings & weekdays).  
+- Which products bring in the highest revenue (Coffee & Tea).  
+- Which store is leading (Hell’s Kitchen).  
+- What customers prefer (Regular/Large cup sizes).  
+
+Overall, this dashboard can help the coffee shop **optimize inventory, plan marketing strategies, and improve customer experience**.  
+
+This project also improved my skills in **Excel dashboards, KPI tracking, and storytelling with data**.  
 ---
 
 ## 📌 How to Use the Dashboard
